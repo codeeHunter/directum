@@ -1,0 +1,15 @@
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\bin\Debug\net6.0\personalMeetings.exe
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\bin\Debug\net6.0\personalMeetings.deps.json
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\bin\Debug\net6.0\personalMeetings.runtimeconfig.json
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\bin\Debug\net6.0\personalMeetings.dll
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\bin\Debug\net6.0\personalMeetings.pdb
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\obj\Debug\net6.0\personalMeetings.csproj.AssemblyReference.cache
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\obj\Debug\net6.0\personalMeetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\obj\Debug\net6.0\personalMeetings.AssemblyInfoInputs.cache
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\obj\Debug\net6.0\personalMeetings.AssemblyInfo.cs
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\obj\Debug\net6.0\personalMeetings.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\obj\Debug\net6.0\personalMeetings.dll
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\obj\Debug\net6.0\refint\personalMeetings.dll
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\obj\Debug\net6.0\personalMeetings.pdb
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\obj\Debug\net6.0\personalMeetings.genruntimeconfig.cache
+C:\Users\Ilya\source\repos\personalMeetings\personalMeetings\obj\Debug\net6.0\ref\personalMeetings.dll
